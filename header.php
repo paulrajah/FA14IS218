@@ -10,9 +10,12 @@
 <body>
 
     <header>
+    <h2> Paul Rajah - Fall 2014 - IS218 </h2>
 
     </header>
 
+    <nav>
 
+    </nav>
     <section>
 
